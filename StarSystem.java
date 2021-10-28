@@ -20,11 +20,4 @@ public class StarSystem {
         return stars;
     }
 
-    public void print(){
-        System.out.println(name);
-        for(Star star:stars){
-            System.out.println(star.getName());
-        }
-    }
-
 }
