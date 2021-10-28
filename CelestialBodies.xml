@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<starSystems>
+    <starSystem name="Солнечная Система">
+        <star name="Солнце" weight="332900">
+            <planets>
+                <planet name="Меркурий" weight="0.055"/>
+                <planet name="Венера" weight="0.815"/>
+                <planet name="Земля" weight="1">
+                    <satellites>
+                        <satellite name="Луна" weight="0.011"/>
+                    </satellites>
+                </planet>
+                <planet name="Марс" weight="0.107">
+                    <satellites>
+                        <satellite name="Фобос" weight="1"/>
+                        <satellite name="Деймос" weight="1"/>
+                    </satellites>
+                </planet>
+                <planet name="Юпитер" weight="318">
+                    <satellites>
+                        <satellite name="Ио" weight="1"/>
+                        <satellite name="Европа" weight="1"/>
+                        <satellite name="Ганимед" weight="1"/>
+                        <satellite name="Каллисто" weight="1"/>
+                    </satellites>
+                </planet>
+                <planet name="Сатурн" weight="95">
+                    <satellites>
+                        <satellite name="Титан" weight="1"/>
+                    </satellites>
+                </planet>
+                <planet name="Уран" weight="14">
+                    <satellites>
+                        <satellite name="Титания" weight="1"/>
+                        <satellite name="Оберон" weight="1"/>
+                        <satellite name="Ариэль" weight="1"/>
+                        <satellite name="Умбриэль" weight="1"/>
+                    </satellites>
+                </planet>
+                <planet name="Нептун" weight="17">
+                    <satellites>
+                        <satellite name="Тритон" weight="1"/>
+                    </satellites>
+                </planet>
+            </planets>
+        </star>
+    </starSystem>
+    <starSystem name="Альфа Центавра">
+        <star name="Центавра" weight="665800">
+            <planets>
+                <planet name="Альфа Центавра Bb" weight="1">
+                    <satellites>
+                        <satellite name="Satellite1" weight="1"></satellite>
+                    </satellites>
+                </planet>
+            </planets>
+        </star>
+    </starSystem>
+    <starSystem name="Ипсилон Андромеды">
+        <star name="Компонент С" weight="1.28">
+            <planets>
+                <planet name="Планета b" weight="0.69"></planet>
+                <planet name="Планета c" weight="1.19"></planet>
+                <planet name="Планета d" weight="3.75"></planet>
+                <planet name="Планета e" weight="1.09"></planet>
+            </planets>
+        </star>
+    </starSystem>
+</starSystems>

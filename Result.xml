@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resultsOfCalculation>
+    <starSystem name="Солнечная Система" numberOfCelestialBodies="22" totalWeight="333357.988"/>
+    <starSystem name="Альфа Центавра" numberOfCelestialBodies="3" totalWeight="665802.0"/>
+    <starSystem name="Ипсилон Андромеды" numberOfCelestialBodies="5" totalWeight="8.0"/>
+</resultsOfCalculation>
